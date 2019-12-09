@@ -1,0 +1,23 @@
+<map id="src/engine/audio/Soundtrack.hxx" name="src/engine/audio/Soundtrack.hxx">
+<area shape="rect" id="node2" href="$AudioConfig_8hxx.html" title="src/engine/audio/AudioConfig.hxx" alt="" coords="625,80,863,107"/>
+<area shape="rect" id="node3" href="$AudioMixer_8hxx.html" title="src/services/AudioMixer.hxx" alt="" coords="485,304,688,331"/>
+<area shape="rect" id="node10" href="$Events_8hxx.html" title="src/Events.hxx" alt="" coords="939,155,1056,181"/>
+<area shape="rect" id="node20" href="$ResourceManager_8hxx.html" title="src/services/ResourceManager.hxx" alt="" coords="712,304,957,331"/>
+<area shape="rect" id="node22" href="$Soundtrack_8cxx.html" title="src/engine/audio/Soundtrack.cxx" alt="" coords="990,80,1223,107"/>
+<area shape="rect" id="node4" href="$JsonSerialization_8hxx.html" title="src/engine/common/JsonSerialization.hxx" alt="" coords="455,379,745,405"/>
+<area shape="rect" id="node8" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="973,453,1176,480"/>
+<area shape="rect" id="node5" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="5,453,224,480"/>
+<area shape="rect" id="node6" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="248,453,509,480"/>
+<area shape="rect" id="node7" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="533,453,680,480"/>
+<area shape="rect" id="node9" href="$ResourceManager_8cxx.html" title="src/services/ResourceManager.cxx" alt="" coords="705,453,949,480"/>
+<area shape="rect" id="node11" href="$GameService_8hxx.html" title="src/GameService.hxx" alt="" coords="981,229,1141,256"/>
+<area shape="rect" id="node12" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="1261,379,1373,405"/>
+<area shape="rect" id="node15" href="$Randomizer_8hxx.html" title="src/services/Randomizer.hxx" alt="" coords="1165,304,1373,331"/>
+<area shape="rect" id="node17" href="$GameClock_8hxx.html" title="src/services/GameClock.hxx" alt="" coords="1449,304,1655,331"/>
+<area shape="rect" id="node21" href="$GameService_8cxx.html" title="src/GameService.cxx" alt="" coords="982,304,1141,331"/>
+<area shape="rect" id="node13" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="1363,453,1474,480"/>
+<area shape="rect" id="node14" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="1234,453,1339,480"/>
+<area shape="rect" id="node16" href="$Randomizer_8cxx.html" title="src/services/Randomizer.cxx" alt="" coords="979,379,1186,405"/>
+<area shape="rect" id="node18" href="$GameClock_8inl_8hxx.html" title="src/services/GameClock.inl.hxx" alt="" coords="1677,379,1904,405"/>
+<area shape="rect" id="node19" href="$GameClock_8cxx.html" title="src/services/GameClock.cxx" alt="" coords="1448,379,1653,405"/>
+</map>

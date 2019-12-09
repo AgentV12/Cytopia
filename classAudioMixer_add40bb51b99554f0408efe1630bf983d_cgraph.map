@@ -1,0 +1,6 @@
+<map id="AudioMixer::AudioMixer" name="AudioMixer::AudioMixer">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="257,5,408,47"/>
+<area shape="rect" id="node3" href="$structStrongType.html#acc66e6d6b9c95193a97a839560499933" title="StrongType::get" alt="" coords="271,71,394,98"/>
+<area shape="rect" id="node4" href="$classAudioMixer.html#a1e99011921698de1ae9aa2afc2789166" title="Called whenever a Channel has finished playing. " alt="" coords="229,122,436,149"/>
+<area shape="rect" id="node5" href="$classAudioMixer.html#a8e10448151f086ed146a48b5872f64aa" title="AudioMixer::onTrackFinished\lFuncPtr" alt="" coords="229,173,436,215"/>
+</map>

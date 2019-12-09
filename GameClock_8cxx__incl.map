@@ -1,0 +1,18 @@
+<map id="src/services/GameClock.cxx" name="src/services/GameClock.cxx">
+<area shape="rect" id="node2" href="$GameClock_8hxx.html" title="GameClock.hxx" alt="" coords="1667,80,1792,107"/>
+<area shape="rect" id="node35" href="$LOG_8hxx.html" title="../util/LOG.hxx" alt="" coords="2128,229,2243,256"/>
+<area shape="rect" id="node6" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="1257,155,1407,181"/>
+<area shape="rect" id="node34" href="$GameClock_8inl_8hxx.html" title="GameClock.inl.hxx" alt="" coords="1657,155,1802,181"/>
+<area shape="rect" id="node7" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="599,229,694,256"/>
+<area shape="rect" id="node27" href="$MessageQueue_8hxx.html" title="util/MessageQueue.hxx" alt="" coords="1245,229,1419,256"/>
+<area shape="rect" id="node33" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="1063,229,1220,256"/>
+<area shape="rect" id="node10" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="1041,453,1148,480"/>
+<area shape="rect" id="node15" href="$TransitiveModel_8hxx.html" title="util/TransitiveModel.hxx" alt="" coords="735,304,913,331"/>
+<area shape="rect" id="node22" href="$Soundtrack_8hxx.html" title="engine/audio/Soundtrack.hxx" alt="" coords="312,379,523,405"/>
+<area shape="rect" id="node24" href="$AudioConfig_8hxx.html" title="engine/audio/AudioConfig.hxx" alt="" coords="309,304,525,331"/>
+<area shape="rect" id="node16" href="$Observer_8hxx.html" title="Observer.hxx" alt="" coords="685,379,793,405"/>
+<area shape="rect" id="node32" href="$MessageQueue_8inl_8hxx.html" title="MessageQueue.inl.hxx" alt="" coords="1186,304,1355,331"/>
+<area shape="rect" id="node36" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1972,304,2087,331"/>
+<area shape="rect" id="node44" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="1778,304,1897,331"/>
+<area shape="rect" id="node45" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="2583,304,2681,331"/>
+</map>

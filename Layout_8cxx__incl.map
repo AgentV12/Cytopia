@@ -1,0 +1,28 @@
+<map id="src/engine/ui/basics/Layout.cxx" name="src/engine/ui/basics/Layout.cxx">
+<area shape="rect" id="node2" href="$Layout_8hxx.html" title="Layout.hxx" alt="" coords="2596,319,2691,345"/>
+<area shape="rect" id="node21" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="699,393,777,420"/>
+<area shape="rect" id="node37" href="$Settings_8hxx.html" title="../../basics/Settings.hxx" alt="" coords="852,393,1024,420"/>
+<area shape="rect" id="node39" href="$UIManager_8hxx.html" title="../../UIManager.hxx" alt="" coords="1928,95,2071,121"/>
+<area shape="rect" id="node3" href="$UIElement_8hxx.html" title="UIElement.hxx" alt="" coords="1773,393,1892,420"/>
+<area shape="rect" id="node5" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="1041,617,1214,644"/>
+<area shape="rect" id="node6" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="1406,468,1601,495"/>
+<area shape="rect" id="node14" href="$WindowManager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="1625,468,1806,495"/>
+<area shape="rect" id="node16" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="2207,468,2365,495"/>
+<area shape="rect" id="node10" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="1524,543,1653,569"/>
+<area shape="rect" id="node11" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="1572,617,1675,644"/>
+<area shape="rect" id="node13" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="1289,617,1400,644"/>
+<area shape="rect" id="node22" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="270,468,385,495"/>
+<area shape="rect" id="node30" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="795,468,878,495"/>
+<area shape="rect" id="node34" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="5,468,124,495"/>
+<area shape="rect" id="node36" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="148,468,245,495"/>
+<area shape="rect" id="node40" href="$ButtonGroup_8hxx.html" title="ui/basics/ButtonGroup.hxx" alt="" coords="1768,169,1961,196"/>
+<area shape="rect" id="node41" href="$Button_8hxx.html" title="../widgets/Button.hxx" alt="" coords="1870,244,2030,271"/>
+<area shape="rect" id="node42" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="2227,319,2305,345"/>
+<area shape="rect" id="node43" href="$Checkbox_8hxx.html" title="ui/widgets/Checkbox.hxx" alt="" coords="1559,244,1744,271"/>
+<area shape="rect" id="node44" href="$Combobox_8hxx.html" title="ui/widgets/Combobox.hxx" alt="" coords="2037,169,2228,196"/>
+<area shape="rect" id="node45" href="$TextField_8hxx.html" title="TextField.hxx" alt="" coords="2173,244,2279,271"/>
+<area shape="rect" id="node46" href="$Frame_8hxx.html" title="ui/widgets/Frame.hxx" alt="" coords="1463,169,1624,196"/>
+<area shape="rect" id="node47" href="$Tooltip_8hxx.html" title="ui/widgets/Tooltip.hxx" alt="" coords="2355,244,2519,271"/>
+<area shape="rect" id="node50" href="$Slider_8hxx.html" title="ui/widgets/Slider.hxx" alt="" coords="982,319,1139,345"/>
+<area shape="rect" id="node48" href="$Timer_8hxx.html" title="../../basics/Timer.hxx" alt="" coords="2259,393,2415,420"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="src/engine/Sprite.hxx" name="src/engine/Sprite.hxx">
+<area shape="rect" id="node2" href="$MapNode_8hxx.html" title="src/engine/GameObjects\l/MapNode.hxx" alt="" coords="975,80,1156,121"/>
+<area shape="rect" id="node9" href="$EventManager_8cxx.html" title="src/engine/EventManager.cxx" alt="" coords="1534,483,1746,509"/>
+<area shape="rect" id="node21" href="$Sprite_8cxx.html" title="src/engine/Sprite.cxx" alt="" coords="1729,87,1887,114"/>
+<area shape="rect" id="node3" href="$Map_8hxx.html" title="src/engine/Map.hxx" alt="" coords="1181,259,1329,285"/>
+<area shape="rect" id="node14" href="$TerrainGenerator_8hxx.html" title="src/engine/map/TerrainGenerator.hxx" alt="" coords="934,177,1197,203"/>
+<area shape="rect" id="node15" href="$JsonSerialization_8hxx.html" title="src/engine/common/JsonSerialization.hxx" alt="" coords="729,259,1020,285"/>
+<area shape="rect" id="node20" href="$MapNode_8cxx.html" title="src/engine/GameObjects\l/MapNode.cxx" alt="" coords="677,169,859,211"/>
+<area shape="rect" id="node4" href="$Engine_8hxx.html" title="src/engine/Engine.hxx" alt="" coords="1200,333,1365,360"/>
+<area shape="rect" id="node12" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="1413,408,1603,435"/>
+<area shape="rect" id="node13" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="1029,333,1176,360"/>
+<area shape="rect" id="node5" href="$Camera_8cxx.html" title="src/engine/basics/Camera.cxx" alt="" coords="645,408,861,435"/>
+<area shape="rect" id="node6" href="$isoMath_8cxx.html" title="src/engine/basics/isoMath.cxx" alt="" coords="885,408,1101,435"/>
+<area shape="rect" id="node7" href="$EventManager_8hxx.html" title="src/engine/EventManager.hxx" alt="" coords="1176,408,1389,435"/>
+<area shape="rect" id="node10" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="1083,483,1194,509"/>
+<area shape="rect" id="node11" href="$Engine_8cxx.html" title="src/engine/Engine.cxx" alt="" coords="457,408,621,435"/>
+<area shape="rect" id="node8" href="$Timer_8cxx.html" title="src/engine/basics/Timer.cxx" alt="" coords="1219,483,1421,509"/>
+<area shape="rect" id="node17" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="744,333,1005,360"/>
+<area shape="rect" id="node16" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="501,333,720,360"/>
+<area shape="rect" id="node18" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="5,333,208,360"/>
+<area shape="rect" id="node19" href="$ResourceManager_8cxx.html" title="src/services/ResourceManager.cxx" alt="" coords="233,333,477,360"/>
+</map>

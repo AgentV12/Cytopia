@@ -1,0 +1,7 @@
+<map id="GameService" name="GameService">
+<area shape="rect" id="node2" href="$classAudioMixer.html" title="{AudioMixer\n|&#45; m_Soundtracks\l&#45; m_Triggers\l&#45; m_GetSound\l&#45; m_Playing\l&#45; onTrackFinishedFunc\l|+ setMusicVolume()\l+ setSoundEffectVolume()\l+ play()\l+ play()\l+ setMuted()\l+ stopAll()\l+ prune()\l+ AudioMixer()\l+ ~AudioMixer()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; playSoundtrack()\l&#45; onTrackFinished()\l&#45; onTrackFinishedFuncPtr()\l}" alt="" coords="5,145,199,545"/>
+<area shape="rect" id="node3" href="$structGame_1_1GameVisitor.html" title="{Game::GameVisitor\n||+ operator()()\l+ operator()()\l}" alt="" coords="223,299,373,391"/>
+<area shape="rect" id="node4" href="$classGameClock.html" title="{GameClock\n|&#45; m_Deffered\l&#45; m_Repeated\l&#45; m_lock\l&#45; m_thread\l|+ GameClock()\l+ ~GameClock()\l+ createDefferedTask()\l+ createRepeatedTask()\l&#45; clockLoop()\l}" alt="" coords="398,255,577,435"/>
+<area shape="rect" id="node5" href="$classRandomizer.html" title="{Randomizer\n|&#45; generator\l|+ Randomizer()\l+ choose()\l}" alt="" coords="601,299,726,391"/>
+<area shape="rect" id="node6" href="$classResourceManager.html" title="{ResourceManager\n|&#45; m_audioConfig\l&#45; m_soundtracks\l&#45; m_Age\l&#45; m_CacheSize\l|+ ResourceManager()\l+ fetch()\l+ get()\l+ prune()\l}" alt="" coords="750,263,913,428"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="src/services/AudioMixer.cxx" name="src/services/AudioMixer.cxx">
+<area shape="rect" id="node2" href="$AudioMixer_8hxx.html" title="AudioMixer.hxx" alt="" coords="243,155,365,181"/>
+<area shape="rect" id="node22" href="$Settings_8hxx.html" title="basics/Settings.hxx" alt="" coords="1893,155,2041,181"/>
+<area shape="rect" id="node25" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="2217,229,2295,256"/>
+<area shape="rect" id="node26" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="2593,304,2708,331"/>
+<area shape="rect" id="node37" href="$ResourceManager_8hxx.html" title="../services/ResourceManager.hxx" alt="" coords="559,155,793,181"/>
+<area shape="rect" id="node39" href="$GameClock_8hxx.html" title="../services/GameClock.hxx" alt="" coords="1512,155,1707,181"/>
+<area shape="rect" id="node43" href="$Randomizer_8hxx.html" title="../services/Randomizer.hxx" alt="" coords="2157,155,2355,181"/>
+<area shape="rect" id="node46" href="$JsonSerialization_8hxx.html" title="common/JsonSerialization.hxx" alt="" coords="1249,80,1468,107"/>
+<area shape="rect" id="node8" href="$Soundtrack_8hxx.html" title="audio/Soundtrack.hxx" alt="" coords="440,453,603,480"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="../../util/Meta.hxx" alt="" coords="783,528,913,555"/>
+<area shape="rect" id="node15" href="$AudioConfig_8hxx.html" title="audio/AudioConfig.hxx" alt="" coords="491,379,659,405"/>
+<area shape="rect" id="node17" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="907,229,1056,256"/>
+<area shape="rect" id="node18" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="649,304,743,331"/>
+<area shape="rect" id="node19" href="$MessageQueue_8hxx.html" title="util/MessageQueue.hxx" alt="" coords="1051,304,1226,331"/>
+<area shape="rect" id="node21" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="869,304,1027,331"/>
+<area shape="rect" id="node23" href="$Singleton_8hxx.html" title="../../util/Singleton.hxx" alt="" coords="1887,229,2047,256"/>
+<area shape="rect" id="node35" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="2227,304,2346,331"/>
+<area shape="rect" id="node36" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="2370,304,2467,331"/>
+<area shape="rect" id="node38" href="$ResourceManager_8inl_8hxx.html" title="ResourceManager.inl.hxx" alt="" coords="648,229,832,256"/>
+<area shape="rect" id="node42" href="$GameClock_8inl_8hxx.html" title="GameClock.inl.hxx" alt="" coords="1666,229,1811,256"/>
+<area shape="rect" id="node48" href="$point_8hxx.html" title="point.hxx" alt="" coords="1301,304,1384,331"/>
+<area shape="rect" id="node49" href="$MapNode_8hxx.html" title="GameObjects/MapNode.hxx" alt="" coords="1212,229,1415,256"/>
+<area shape="rect" id="node50" href="$TerrainGenerator_8hxx.html" title="TerrainGenerator.hxx" alt="" coords="1162,155,1321,181"/>
+</map>

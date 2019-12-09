@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classCytopiaError.html" title="A generic error in Cytopia. " alt="" coords="160,157,263,184"/>
+<area shape="rect" id="node3" href="$classAudioError.html" title="An audio&#45;related error occured. " alt="" coords="345,5,435,32"/>
+<area shape="rect" id="node4" href="$classCompressionError.html" title="A compression error occured. " alt="" coords="321,56,459,83"/>
+<area shape="rect" id="node5" href="$classConfigurationError.html" title="A configuration error. " alt="" coords="320,107,460,133"/>
+<area shape="rect" id="node6" href="$classDisplayError.html" title="A display error occured. " alt="" coords="339,157,441,184"/>
+<area shape="rect" id="node7" href="$classFontError.html" title="A font&#45;related error occured. " alt="" coords="349,208,431,235"/>
+<area shape="rect" id="node8" href="$classUIError.html" title="A UI&#45;related error occured. " alt="" coords="357,259,423,285"/>
+<area shape="rect" id="node9" href="$classUnimplementedError.html" title="UnimplementedError" alt="" coords="311,309,469,336"/>
+</map>

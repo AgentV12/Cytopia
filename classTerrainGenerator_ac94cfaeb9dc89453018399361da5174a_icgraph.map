@@ -1,0 +1,17 @@
+<map id="TerrainGenerator::loadTerrainDataFromJSON" name="TerrainGenerator::loadTerrainDataFromJSON">
+<area shape="rect" id="node2" href="$classTerrainGenerator.html#adcc251757a1f3a06471a49f17886b8ce" title="TerrainGenerator::generate\lTerrain" alt="" coords="264,224,461,265"/>
+<area shape="rect" id="node3" href="$classMap.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="509,231,615,258"/>
+<area shape="rect" id="node4" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="889,104,1029,131"/>
+<area shape="rect" id="node11" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="663,256,829,283"/>
+<area shape="rect" id="node5" href="$classEngine.html#af7de8d74b0cfacaf06df53e7caf11538" title="Engine::saveGame" alt="" coords="1108,54,1252,80"/>
+<area shape="rect" id="node6" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="1319,130,1556,156"/>
+<area shape="rect" id="node7" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="1369,256,1506,283"/>
+<area shape="rect" id="node10" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="1604,307,1695,334"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1743,282,1867,308"/>
+<area shape="rect" id="node9" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1915,282,1969,308"/>
+<area shape="rect" id="node12" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="889,256,1030,283"/>
+<area shape="rect" id="node15" href="$classMap.html#a779c939483a52b32a3959b99af95e67a" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="877,332,1041,359"/>
+<area shape="rect" id="node13" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="1111,307,1249,334"/>
+<area shape="rect" id="node14" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1335,307,1540,334"/>
+<area shape="rect" id="node16" href="$classEngine.html#a8a53c5e52734a5158b317851361b83f2" title="Engine::setTileIDOfNode" alt="" coords="1089,358,1271,384"/>
+</map>

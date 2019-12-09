@@ -1,0 +1,4 @@
+<map id="ResourceManager::fetch" name="ResourceManager::fetch">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="248,5,399,47"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a4d8cbbffb292e62ca4fb82fc07a8cfc5" title="Cleans up the cache of unused resources. " alt="" coords="232,71,415,98"/>
+</map>

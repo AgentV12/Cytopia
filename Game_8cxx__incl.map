@@ -1,0 +1,36 @@
+<map id="src/Game.cxx" name="src/Game.cxx">
+<area shape="rect" id="node2" href="$Game_8hxx.html" title="Game.hxx" alt="" coords="868,304,957,331"/>
+<area shape="rect" id="node11" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="1357,453,1434,480"/>
+<area shape="rect" id="node26" href="$Engine_8hxx.html" title="engine/Engine.hxx" alt="" coords="3221,453,3364,480"/>
+<area shape="rect" id="node27" href="$WindowManager_8hxx.html" title="WindowManager.hxx" alt="" coords="2373,528,2530,555"/>
+<area shape="rect" id="node31" href="$EventManager_8hxx.html" title="engine/EventManager.hxx" alt="" coords="3236,80,3427,107"/>
+<area shape="rect" id="node33" href="$UIManager_8hxx.html" title="UIManager.hxx" alt="" coords="2519,155,2637,181"/>
+<area shape="rect" id="node45" href="$Camera_8hxx.html" title="engine/basics/Camera.hxx" alt="" coords="3439,453,3634,480"/>
+<area shape="rect" id="node46" href="$Image_8hxx.html" title="engine/ui/widgets/Image.hxx" alt="" coords="1594,379,1805,405"/>
+<area shape="rect" id="node47" href="$Settings_8hxx.html" title="engine/basics/Settings.hxx" alt="" coords="5,453,201,480"/>
+<area shape="rect" id="node3" href="$ScriptEngine_8hxx.html" title="Scripting/ScriptEngine.hxx" alt="" coords="511,379,703,405"/>
+<area shape="rect" id="node4" href="$MessageQueue_8hxx.html" title="util/MessageQueue.hxx" alt="" coords="627,528,801,555"/>
+<area shape="rect" id="node7" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="251,528,358,555"/>
+<area shape="rect" id="node9" href="$GameService_8hxx.html" title="GameService.hxx" alt="" coords="919,453,1056,480"/>
+<area shape="rect" id="node10" href="$Randomizer_8hxx.html" title="services/Randomizer.hxx" alt="" coords="1232,379,1417,405"/>
+<area shape="rect" id="node13" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1825,528,1939,555"/>
+<area shape="rect" id="node22" href="$GameClock_8hxx.html" title="services/GameClock.hxx" alt="" coords="1025,379,1208,405"/>
+<area shape="rect" id="node24" href="$ResourceManager_8hxx.html" title="services/ResourceManager.hxx" alt="" coords="728,379,951,405"/>
+<area shape="rect" id="node25" href="$Game_8inl_8hxx.html" title="Game.inl.hxx" alt="" coords="378,379,487,405"/>
+<area shape="rect" id="node20" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="1277,528,1396,555"/>
+<area shape="rect" id="node21" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="1420,528,1517,555"/>
+<area shape="rect" id="node28" href="$Singleton_8hxx.html" title="../util/Singleton.hxx" alt="" coords="3007,603,3155,629"/>
+<area shape="rect" id="node29" href="$point_8hxx.html" title="basics/point.hxx" alt="" coords="3321,528,3449,555"/>
+<area shape="rect" id="node30" href="$Map_8hxx.html" title="Map.hxx" alt="" coords="2966,528,3043,555"/>
+<area shape="rect" id="node34" href="$UIElement_8hxx.html" title="ui/basics/UIElement.hxx" alt="" coords="2362,453,2541,480"/>
+<area shape="rect" id="node35" href="$Layout_8hxx.html" title="ui/basics/Layout.hxx" alt="" coords="2061,379,2215,405"/>
+<area shape="rect" id="node36" href="$ButtonGroup_8hxx.html" title="ui/basics/ButtonGroup.hxx" alt="" coords="2641,229,2835,256"/>
+<area shape="rect" id="node37" href="$Button_8hxx.html" title="../widgets/Button.hxx" alt="" coords="2591,304,2751,331"/>
+<area shape="rect" id="node38" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="2341,379,2418,405"/>
+<area shape="rect" id="node39" href="$Checkbox_8hxx.html" title="ui/widgets/Checkbox.hxx" alt="" coords="2859,229,3044,256"/>
+<area shape="rect" id="node40" href="$Combobox_8hxx.html" title="ui/widgets/Combobox.hxx" alt="" coords="2324,229,2515,256"/>
+<area shape="rect" id="node41" href="$TextField_8hxx.html" title="TextField.hxx" alt="" coords="2359,304,2466,331"/>
+<area shape="rect" id="node42" href="$Frame_8hxx.html" title="ui/widgets/Frame.hxx" alt="" coords="1985,229,2147,256"/>
+<area shape="rect" id="node43" href="$Tooltip_8hxx.html" title="ui/widgets/Tooltip.hxx" alt="" coords="2120,304,2284,331"/>
+<area shape="rect" id="node44" href="$Slider_8hxx.html" title="ui/widgets/Slider.hxx" alt="" coords="1879,379,2037,405"/>
+</map>
